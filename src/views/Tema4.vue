@@ -22,7 +22,7 @@
             | (OWASP, 2008). 
     p.mb-5 Mejorar la seguridad de una aplicación web requiere conocimiento técnico en cada tecnología involucrada (servidor web, librerías JavaScript empleadas etc.), una forma de irse introduciendo en este proceso, es haciendo sobre sus propias aplicaciones pruebas OWASP, donde seguramente encontrará vulnerabilidades; de y cada vulnerabilidad encontrada, representará un reto cognitivo, porque debe ampliar la base de sus conocimiento técnico o práctico cuando deba mejorar las forma en que usted desarrolla su aplicación. A continuación, se dará a conocer un instructivo para su identificación: 
     .col-lg-6
-      a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+      a.anexo(:href="obtenerLink('/downloads/PDF_ ANEXO-CF8_4_Identificacion_Vulnerabilidades_Aplicacion_Web.pdf')" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-pdf.svg")
         .anexo__texto
