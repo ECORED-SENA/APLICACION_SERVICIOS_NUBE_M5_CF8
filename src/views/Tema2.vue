@@ -102,8 +102,50 @@
       br
       br
       |A continuación, se mencionan los marcos de referencia más utilizados y de mayor desarrollo incluyendo algunos propósitos particulares para su adopción y una breve descripción:
-    SlyderB.mb-5(:datos="datosSlyder")
-
+    //- SlyderB.mb-5(:datos="datosSlyder")
+    SlyderE
+      .row
+        .col-md-4.mb-4.mb-md-0
+          h4 Marco de ciberseguridad del Instituto Nacional de Estándares y Tecnología
+          p Este marco de trabajo fue creado para ayudar a las entidades a conocer, comprender, gestionar y reducir los riesgos seguridad informática para fortalecer la protección de sus redes y datos. Provee un lenguaje común y un compendio de  buenas prácticas de ciberseguridad.<br><br>Este marco se basa en las mejores prácticas de las normas (ISO, ITU, CIS, NIST, entre otros) y realiza una agrupación de ellas según afinidad, centrando sus recomendaciones en las actividades que impulsan de ciberseguridad  a través  de una consideración los riesgos cibernéticos que es fundamental de los procesos de gestión de riesgos de seguridad de la organización.
+        .col-md-8
+          figure
+            img(src='@/assets/curso/img8.jpg', alt='Texto que describa la imagen')
+      .row
+        .col-md-4.mb-4.mb-md-0
+          h4 
+          p El Instituto Nacional de Normas y Tecnología (NIST) emplea un lenguaje común, con el que orienta a las entidades para que sean capaces de gestionar y reducir los riesgos de ciberseguridad.
+        .col-md-8
+          figure
+            img(src='@/assets/curso/img9.svg', alt='Texto que describa la imagen')
+      .row
+        .col-md-4.mb-4.mb-md-0
+          h4  ISO / IEC 27001: 2013
+          p Fue creada por la Organización Internacional de Normalización (ISO), se ha probado que funciona bien para empresas de todo tipo y dimensión a rededor del mundo. Es el marco de trabajo más conocido e implementado internacionalmente. Su enfoque está en la norma ISO 27001 centrada en la protección de la integridad, disponibilidad y la confidencialidad de la información. El eje de esta propuesta está basado en la gestión de riesgos:  reconocer dónde están y cómo tratarlos metodológicamente.
+        .col-md-8
+          figure
+            img(src='@/assets/curso/img10.svg', alt='Texto que describa la imagen')
+      .row
+        .col-md-4.mb-4.mb-md-0
+          h4 COBIT (Objetivos de Control para Información y Tecnologías Relacionadas)
+          p Creado por ISACA, que es una organización internacional independiente y enfocada en el gobierno de TI. Este marco de trabajo comparte muchas similitudes con NIST e ISO. Su enfoque principal es el negocio orientado a procesos. COBIT, a menudo, es implementado en entidades públicas y se utiliza como una herramienta de cumplimiento de las normativas legales de gestión de procesos.<br><br>Provee un compendio de mejores prácticas, centradas en el control y supervisión de Tecnologías de la Información. Cuenta con un conjunto de herramienta que se pueden usar como referencia para la gestión de TI, proponiendo elementos como: mapas de auditoría, objetivos de control, herramientas y técnicas para su implementación y gestión.
+        .col-md-8
+          figure
+            img(src='@/assets/curso/img11.jpg', alt='Texto que describa la imagen')
+      .row
+        .col-md-4.mb-4.mb-md-0
+          h4 <i>HITRUST CSF (Health Information Trust Alliance - Cybersecurity Framework)</i>
+          p Este marco fue creado por Health Information Trust Alliance (HITRUST) y es usado, principalmente, por la industria de la salud de los Estados Unidos. HITRUST originalmente creó CSF (<i>Cybersecurity Framework</i> – Marco de ciberseguridad) para diferenciar elementos clave y posibles riesgos en entidades de salud, contiene el marco con controles más grande que se aplicarían a cualquier organización. Es, tal vez, el marco de trabajo que se actualiza con más frecuencia.
+        .col-md-8
+          figure
+            img(src='@/assets/curso/img12.jpg', alt='Texto que describa la imagen')
+      .row
+        .col-md-4.mb-4.mb-md-0
+          h4 <i>CSA  Cloud Controls Matrix</i>
+          p Es el marco desarrollado por <i>Cloud Security Alliance</i> (CSA) y creado específicamente para los proveedores de servicios en la nube. La estructura del almacenamiento de datos de los servicios nube se enfrenta riesgos propios del entorno que requieren controles de seguridad específicos de la industria, este marco provee una guía en torno a los mismos. La matriz de controles para servicios en la nube es actualizada frecuentemente, haciéndola más atractiva a los proveedores de servicios IT en la nube de cualquier tamaño. También pretender normalizar las expectativas de seguridad, taxonomía y terminología de los servicios en la  nube.
+        .col-md-8
+          figure
+            img(src='@/assets/curso/img13.jpg', alt='Texto que describa la imagen')
 
 
 

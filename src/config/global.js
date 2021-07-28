@@ -77,12 +77,12 @@ export default {
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      // {
+      //   nombreRuta: 'actividad',
+      //   icono: 'far fa-question-circle',
+      //   titulo: 'Actividad didáctica',
+      //   desarrolloContenidos: true,
+      // },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -181,7 +181,7 @@ export default {
       referencia:
         'Soriano, M. (2014). Seguridad en redes y seguridad de la información. ',
       link:
-        'http://improvet.cvut.cz/project/download/C2ES/Seguridad_de_Red_e_Informacion.pdf',
+        'https://es.scribd.com/document/373953890/Seguridad-de-Red-e-Informacion-pdf',
     },
     {
       referencia: 'Wikimedia. (2019). ISACA.',
@@ -343,7 +343,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

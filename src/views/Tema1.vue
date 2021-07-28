@@ -18,7 +18,7 @@
               .tarjeta-icono__imagen.d-md-none.d-lg-block: img(src="@/assets/curso/img2.svg" )
             .col-lg-10
               .tarjeta-icono__texto.p-3
-                h4 Prevención:
+                h4 Prevención
                 p.mb-0 Para disminuir los riesgos se debe actuar de manera temprana, esto implica conocer los activos o recursos tecnológicos utilizados para el análisis de posibles amenazas cibernéticas.
         .tarjeta-icono.color-acento-contenido-claro.d-flex.align-items-center.mb-4
           .row.d-flex.align-items-center.justify-content-center
@@ -26,7 +26,7 @@
               .tarjeta-icono__imagen.d-md-none.d-lg-block: img(src="@/assets/curso/img3.svg" )
             .col-lg-10
               .tarjeta-icono__texto.p-3
-                h4 Localización:
+                h4 Localización
                 p.mb-0 Se debe implementar una serie de herramientas tecnológicas, que permitan la localización de los posibles incidentes, en las que se visibilice su localización y afectación. Esto implica, además, el monitoreo constante de los recursos tecnológicos.
         .tarjeta-icono.color-secundario-claro.d-flex.align-items-center.mb-4
           .row.d-flex.align-items-center.justify-content-center
@@ -34,7 +34,7 @@
               .tarjeta-icono__imagen.d-md-none.d-lg-block: img(src="@/assets/curso/img4.svg" style="width: 295px" )
             .col-lg-10
               .tarjeta-icono__texto.p-3
-                h4 Reacción:
+                h4 Reacción
                 p.mb-0.pe-lg-5.me-lg-5.pe-md-0.me-md-0 Al detectarse una posible amenaza se debe realizar una reacción inmediata que permita su mitigación.
     p.mb-5 Al evidenciarse una amenaza cibernética es importante seguir los siguientes pasos: 
     .row.justify-content-between.d-flex.align-items-center
@@ -56,7 +56,7 @@
                 h2.m-auto.mb-0 2
             .col-10
               .lista-numeral__texto
-                p.mb-0 Actualizar los sistemas de protección implementados como antivirus, antimalware, antispyware, entre otras estrategias.
+                p.mb-0 Actualizar los sistemas de protección implementados como antivirus, <i>antimalware</i>, <i>antispyware</i>, entre otras estrategias.
         hr
         .lista-numeral.d-flex.align-items-center.justify-content-componenteFormativo
           .row.align-items-center.d-flex
