@@ -17,14 +17,16 @@
         .row.mb-4 
           .col-lg-6
             .tarjeta-avatar-b.mb-4.h-100
-              img(src='@/assets/curso/img15.svg' alt='AvatarTop')
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/img15.svg' alt='AvatarTop')
               .tarjeta.color-primario-claro.d-flex.align-items-center
                 .p-4
                   h4 Planificar (plan)
                   p Fase del SGSI centrado en la evaluación de riesgos de seguridad de la información y la selección de controles adecuados.
           .col-lg-6
             .tarjeta-avatar-b.mb-4.h-100
-              img(src='@/assets/curso/img16.svg' alt='AvatarTop')
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/img16.svg' alt='AvatarTop')
               .tarjeta.color-primario-claro.d-flex.align-items-center
                 .p-4
                   h4 Hacer (do)
@@ -32,14 +34,16 @@
         .row.mb-5 
           .col-lg-6
             .tarjeta-avatar-b.mb-5.h-100
-              img(src='@/assets/curso/img17.svg' alt='AvatarTop')
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/img17.svg' alt='AvatarTop')
               .tarjeta.color-primario-claro.d-flex.align-items-center
                 .p-4
                   h4 Verificar (check)
                   p Su objetivo revisar y evaluar el desempeño (eficiencia y eficacia) del SGSI.
           .col-lg-6
             .tarjeta-avatar-b.mb-5.h-100
-              img(src='@/assets/curso/img18.svg' alt='AvatarTop')
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/img18.svg' alt='AvatarTop')
               .tarjeta.color-primario-claro.d-flex.align-items-center
                 .p-4
                   h4 Actuar (act)
