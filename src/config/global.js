@@ -297,7 +297,13 @@ export default {
       },
       {
         nombre: 'Camilo Andres Bolaño Rey',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
