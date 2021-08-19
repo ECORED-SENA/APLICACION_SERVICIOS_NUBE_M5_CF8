@@ -11,8 +11,8 @@
     p.mb-5 Para asegurar la implementación de la ciberseguridad es importante conocer las industrias que la garantiza; a continuación, podrá conocer algunas entidades estandarizadas: 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/WiBw1gUfa-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Prácticas e implementación de la ciberseguridad
     #t_2_1.titulo-segundo
       h2 2.1 Normas relacionadas
     p.mb-5 Hay diferentes normas que proporcionan una visión global sobre la ciberseguridad, a continuación, se podrán conocer algunas: 
@@ -95,7 +95,7 @@
     p.mb-5 En particular, este documento da una guía técnica para abordar riesgos comunes de ciberseguridad, tales como ciberprotección en el ciberespacio (ISO/IEC, 2020).
     #t_2_2.titulo-segundo
       h2 2.2 Marcos de referencia
-    p.mb-5 Los ciberataques son cada vez más comunes y frecuentes, por ello es clara la necesidad de proteger los recursos y activos. Ahora, la pregunta importante es: ¿cómo empezar? Es ahí donde toman importancia los marcos de referencia que se han venido desarrollando y adoptando; estos suministran información valiosa y útil en el diseño de los procesos de control y mitigación de los riesgos de ciberseguridad.
+    p.mb-5 Los ciberataques son cada vez más comunes y frecuentes, por ello es clara la necesidad de proteger los recursos y activos. Ahora, la pregunta importante es: ¿cómo empezar?. Es ahí donde toman importancia los marcos de referencia que se han venido desarrollando y adoptando; estos suministran información valiosa y útil en el diseño de los procesos de control y mitigación de los riesgos de ciberseguridad.
       br
       br
       |Si bien se debe elegir un marco y trabajar con él, son solo una referencia y no una solución definitiva, porque también es importante el enfoque del análisis de riesgos, pues cada marco propone una serie de controles que se debe elegir de acuerdo con el entorno en que se trabaja y si se llegase a requerir hacer adopción o ajustes de otros marcos de referencia.

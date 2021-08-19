@@ -135,36 +135,36 @@ export default {
     },
     {
       referencia:
-        'Firma-e. (2021). ¿Qué es un SGSI – Sistema de Gestión de Seguridad de la Información? ',
+        'Firma-e. (2021). ¿Qué es un SGSI – Sistema de Gestión de Seguridad de la Información?. ',
       link:
         'https://www.firma-e.com/blog/que-es-un-sgsi-sistema-de-gestion-de-seguridad-de-la-informacion ',
     },
     {
       referencia:
-        'ISO 27001. (2021). Certificado ISO 27001 punto por punto - Presupuesto online.',
+        'ISO 27001. (2021). Certificado ISO 27001 punto por punto - Presupuesto online. ',
       link: 'https://normaiso27001.es ',
     },
     {
       referencia:
-        'ISO/IEC 27032:2012. (2021). Gestión de la Ciberseguridad según el ISO/IEC 27032:2012 ',
+        'ISO/IEC 27032:2012. (2021). Gestión de la Ciberseguridad según el ISO/IEC 27032:2012. ',
       link:
         'https://www.linkedin.com/pulse/gesti%C3%B3n-de-la-ciberseguridad-seg%C3%BAn-el-isoiec-gianncarlo-g%C3%B3mez-morales',
     },
     {
       referencia:
-        'ISO/IEC. (2020). Tecnologías de la información. Técnicas de seguridad. Directrices para ciberseguridad (Num. 27032). ',
+        'ISO/IEC. (2020). Tecnologías de la información. Técnicas de seguridad. Directrices para ciberseguridad (Num. 27032).  ',
       link:
         'https://tienda.icontec.org/gp-tecnologias-de-la-informacion-tecnicas-de-seguridad-directrices-para-ciberseguridad-gtc-iso-iec27032-2020.html',
     },
     {
       referencia:
-        'Ministerio de Hacienda y Administraciones Públicas de España (2012). Magerit v.3: Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información.',
+        'Ministerio de Hacienda y Administraciones Públicas de España (2012). Magerit v.3: Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información. ',
       link:
         'https://www.ccn-cert.cni.es/documentos-publicos/1789-magerit-libro-i-metodo/file.html',
     },
     {
       referencia:
-        'National Institute of Standards and Technology. (s.f.). Seguridad 7”A”Metodología NIST SP 800-30.',
+        'National Institute of Standards and Technology. (s.f.). Seguridad 7”A”Metodología NIST SP 800-30. ',
       link: 'http://seguridades7a.blogspot.com/p/nist-sp-800-30.html',
     },
     {
@@ -173,7 +173,7 @@ export default {
       link: 'https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf',
     },
     {
-      referencia: 'OWASP. (2028). Guía de pruebas OWASP.',
+      referencia: 'OWASP. (2028). Guía de pruebas OWASP. ',
       link:
         'https://owasp.org/www-pdf-archive/Gu%C3%ADa_de_pruebas_de_OWASP_ver_3.0.pdf ',
     },
@@ -184,18 +184,18 @@ export default {
         'https://es.scribd.com/document/373953890/Seguridad-de-Red-e-Informacion-pdf',
     },
     {
-      referencia: 'Wikimedia. (2019). ISACA.',
+      referencia: 'Wikimedia. (2019). ISACA. ',
       link: 'https://es.wikipedia.org/w/index.php?title=ISACA&oldid=117464939',
     },
     {
       referencia:
-        'Wikimedia. (2021). Instituto Nacional de Estándares y Tecnología.',
+        'Wikimedia. (2021). Instituto Nacional de Estándares y Tecnología. ',
       link:
         'https://es.wikipedia.org/w/index.php?title=Instituto_Nacional_de_Est%C3%A1ndares_y_Tecnolog%C3%ADa&oldid=134157877 ',
     },
     {
       referencia:
-        'Wikimedia. (2021). Organización Internacional de Normalización.',
+        'Wikimedia. (2021). Organización Internacional de Normalización. ',
       link:
         'https://es.wikipedia.org/w/index.php?title=Organizaci%C3%B3n_Internacional_de_Normalizaci%C3%B3n&oldid=134718068',
     },
