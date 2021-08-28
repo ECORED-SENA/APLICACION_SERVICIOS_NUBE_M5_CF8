@@ -121,7 +121,7 @@
       .row
         .col-md-4.mb-4.mb-md-0
           h4  ISO / IEC 27001: 2013
-          p Fue creada por la Organización Internacional de Normalización (ISO), se ha probado que funciona bien para empresas de todo tipo y dimensión a rededor del mundo. Es el marco de trabajo más conocido e implementado internacionalmente. Su enfoque está en la norma ISO 27001 centrada en la protección de la integridad, disponibilidad y la confidencialidad de la información. El eje de esta propuesta está basado en la gestión de riesgos:  reconocer dónde están y cómo tratarlos metodológicamente.
+          p Fue creada por la Organización Internacional de Normalización (ISO), se ha probado que funciona bien para empresas de todo tipo y dimensión alrededor del mundo. Es el marco de trabajo más conocido e implementado internacionalmente. Su enfoque está en la norma ISO 27001 centrada en la protección de la integridad, disponibilidad y la confidencialidad de la información. El eje de esta propuesta está basado en la gestión de riesgos:  reconocer dónde están y cómo tratarlos metodológicamente.
         .col-md-8
           figure
             img(src='@/assets/curso/img10.svg', alt='Texto que describa la imagen')
@@ -142,7 +142,7 @@
       .row
         .col-md-4.mb-4.mb-md-0
           h4 <i>CSA  Cloud Controls Matrix</i>
-          p Es el marco desarrollado por <i>Cloud Security Alliance</i> (CSA) y creado específicamente para los proveedores de servicios en la nube. La estructura del almacenamiento de datos de los servicios nube se enfrenta riesgos propios del entorno que requieren controles de seguridad específicos de la industria, este marco provee una guía en torno a los mismos. La matriz de controles para servicios en la nube es actualizada frecuentemente, haciéndola más atractiva a los proveedores de servicios IT en la nube de cualquier tamaño. También pretender normalizar las expectativas de seguridad, taxonomía y terminología de los servicios en la  nube.
+          p Es el marco desarrollado por <i>Cloud Security Alliance</i> (CSA) y creado específicamente para los proveedores de servicios en la nube. La estructura del almacenamiento de datos de los servicios nube se enfrentan riesgos propios del entorno que requieren controles de seguridad específicos de la industria, este marco provee una guía en torno a los mismos. La matriz de controles para servicios en la nube es actualizada frecuentemente, haciéndola más atractiva a los proveedores de servicios IT en la nube de cualquier tamaño. También pretender normalizar las expectativas de seguridad, taxonomía y terminología de los servicios en la  nube.
         .col-md-8
           figure
             img(src='@/assets/curso/img13.jpg', alt='Texto que describa la imagen')

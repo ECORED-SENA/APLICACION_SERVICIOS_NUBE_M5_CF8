@@ -52,7 +52,7 @@
       h2 3.1 Requisitos del SGSI
     .row.mb-5.justify-content-between
       .col-lg-6
-        p Antes de implantar un SGSI se debe cumplir una fase inicial de análisis requisitos del SGSI para lo cual existe la la norma ISO 27003 que es la guía para establecer el análisis de requisitos, direccionar y orientar el proceso de implementación de la normativa certificable por auditores expertos, definiendo el análisis de requisitos, con los siguientes ítems:
+        p Antes de implantar un SGSI se debe cumplir una fase inicial de análisis requisitos del SGSI para lo cual existe la norma ISO 27003 que es la guía para establecer el análisis de requisitos, direccionar y orientar el proceso de implementación de la normativa certificable por auditores expertos, definiendo el análisis de requisitos, con los siguientes ítems:
         ul.lista-ul--color
           li 
             i.fas.fa-check
@@ -79,7 +79,7 @@
         p También se deben establecer las responsabilidades y el compromiso organizacional, de tal manera que permita la aprobación y la consecución de recursos para establecer un SGSI. 
           br
           br
-          |Finalmente, propone la revisión del SGSI por parte de la dirección general siguiendo criterios de evaluación, en tal sentido la Norma ISO 27003 establece una clausulas enfocadas a ello.
+          |Finalmente, propone la revisión del SGSI por parte de la dirección general siguiendo criterios de evaluación, en tal sentido la Norma ISO 27003 establece unas clausulas enfocadas a ello.
       .col-lg-5: img(src="@/assets/curso/img19.jpg")
     #t_3_2.titulo-segundo
       h2 3.2 Estructura organizacional del SGSI
