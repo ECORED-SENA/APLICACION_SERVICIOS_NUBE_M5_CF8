@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1140.333" height="1332.676" viewBox="0 0 1140.333 1332.676">
+  <defs>
+    <filter id="Rectángulo_5155" x="27.302" y="21" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5159" x="27.302" y="376" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5166" x="27.302" y="734" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5156" x="315.302" y="21" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5160" x="315.302" y="376" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5165" x="315.302" y="734" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5157" x="603.302" y="21" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5161" x="603.302" y="376" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5164" x="603.302" y="734" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5158" x="892.302" y="21" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5162" x="892.302" y="376" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5163" x="892.302" y="734" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_5167" x="29.302" y="1089" width="228" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_54185" data-name="Grupo 54185" transform="translate(-226.698 -2476)">
+    <g id="Grupo_53780" data-name="Grupo 53780" transform="translate(165.18 2391.978)">
+      <path id="Trazado_100487" data-name="Trazado 100487" d="M220.145,372.972v86.987a21.641,21.641,0,0,0,21.734,21.5H441.92a21.641,21.641,0,0,0,21.734-21.5V354.7h20.668V332.283l29.072,28.754-29.072,28.754V367.379h-7.843v92.578a34.41,34.41,0,0,1-34.557,34.181H241.879a34.41,34.41,0,0,1-34.559-34.181v-74.3Z" transform="translate(439.182 211.577)" fill="#ffca28"/>
+      <path id="Trazado_100488" data-name="Trazado 100488" d="M778.788,84.022H580.946A34.217,34.217,0,0,0,546.767,118.2v74.3l12.684,12.684V118.2a21.52,21.52,0,0,1,21.5-21.5H778.788a21.522,21.522,0,0,1,21.5,21.5V349.355a21.522,21.522,0,0,1-21.5,21.5l-979.242-.5v.04h-4.53V416H-227.4l28.756,28.754L-169.89,416H-192.3V383.031l971.088.5a34.218,34.218,0,0,0,34.179-34.179V118.2A34.218,34.218,0,0,0,778.788,84.022Z" transform="translate(388.884 0)" fill="#ffa726"/>
+      <path id="Trazado_109793" data-name="Trazado 109793" d="M778.788,84.022H580.946A34.217,34.217,0,0,0,546.767,118.2v74.3l12.684,12.684V118.2a21.52,21.52,0,0,1,21.5-21.5H778.788a21.522,21.522,0,0,1,21.5,21.5V349.355a21.522,21.522,0,0,1-21.5,21.5l-979.242-.5v.04h-4.53V416H-227.4l28.756,28.754L-169.89,416H-192.3V383.031l971.088.5a34.218,34.218,0,0,0,34.179-34.179V118.2A34.218,34.218,0,0,0,778.788,84.022Z" transform="translate(388.884 355.491)" fill="#ffa726"/>
+      <path id="Trazado_109794" data-name="Trazado 109794" d="M778.788,84.022H580.946A34.217,34.217,0,0,0,546.767,118.2v74.3l12.684,12.684V118.2a21.52,21.52,0,0,1,21.5-21.5H778.788a21.522,21.522,0,0,1,21.5,21.5V349.355a21.522,21.522,0,0,1-21.5,21.5l-979.242-.5v.04h-4.53V416H-227.4l28.756,28.754L-169.89,416H-192.3V383.031l971.088.5a34.218,34.218,0,0,0,34.179-34.179V118.2A34.218,34.218,0,0,0,778.788,84.022Z" transform="translate(388.884 710.982)" fill="#ffa726"/>
+      <path id="Trazado_100490" data-name="Trazado 100490" d="M689.829,170.364,661.073,141.61v22.412H640.634V269.286a21.519,21.519,0,0,1-21.5,21.493H421.3A21.517,21.517,0,0,1,399.8,269.286V182.3l-12.684,12.684v74.3A34.217,34.217,0,0,0,421.3,303.465H619.141a34.218,34.218,0,0,0,34.177-34.179v-92.58h7.755v22.41Z" transform="translate(259.256 46.759)" fill="#ffca28"/>
+      <path id="Trazado_100491" data-name="Trazado 100491" d="M370.53,170.364,341.778,141.61v22.412H321.337v12.684h0v92.58a21.518,21.518,0,0,1-21.5,21.493H102a21.519,21.519,0,0,1-21.5-21.493V164.022H67.821V269.286A34.218,34.218,0,0,0,102,303.465H299.844a34.218,34.218,0,0,0,34.177-34.179v-92.58h7.757v22.41Z" transform="translate(0.001 46.759)" fill="#ffca28"/>
+      <path id="Trazado_100492" data-name="Trazado 100492" d="M530.18,217.123l-28.754-28.752v22.41h-7.755V118.2a34.218,34.218,0,0,0-34.179-34.179H261.648A34.218,34.218,0,0,0,227.469,118.2v74.3l12.684,12.686V118.2a21.52,21.52,0,0,1,21.5-21.5H459.492a21.52,21.52,0,0,1,21.5,21.5V223.465h20.439v22.41Z" transform="translate(129.628 0)" fill="#ffa726"/>
+      <path id="Trazado_100493" data-name="Trazado 100493" d="M401.525,274.7H601.57a34.409,34.409,0,0,1,34.557,34.179v92.578h7.841V379.041L673.042,407.8l-29.074,28.752V414.137H623.3V308.873a21.639,21.639,0,0,0-21.734-21.493H401.525a21.639,21.639,0,0,0-21.734,21.493v86.988l-12.823-12.684v-74.3A34.409,34.409,0,0,1,401.525,274.7Z" transform="translate(-12.956 164.819)" fill="#ffa726"/>
+      <path id="Trazado_100494" data-name="Trazado 100494" d="M561.176,274.7H636.3l12.825,12.684H561.176a21.642,21.642,0,0,0-21.736,21.5V506.716a21.644,21.644,0,0,0,21.736,21.5H761.217a21.642,21.642,0,0,0,21.734-21.5V401.454h20.668V379.042L832.693,407.8,803.619,436.55V414.138h-7.843v92.578A34.409,34.409,0,0,1,761.217,540.9H561.176a34.41,34.41,0,0,1-34.559-34.181V308.874A34.41,34.41,0,0,1,561.176,274.7Z" transform="translate(-465.099 164.818)" fill="#ffca28"/>
+      <path id="Trazado_100495" data-name="Trazado 100495" d="M399.8,564.512V651.5a21.519,21.519,0,0,0,21.5,21.493H619.139a21.519,21.519,0,0,0,21.5-21.493V546.234h20.441v-22.41l28.752,28.752L661.075,581.33V558.918h-7.757V651.5a34.217,34.217,0,0,1-34.177,34.179H421.3A34.218,34.218,0,0,1,387.118,651.5V577.2Z" transform="translate(259.256 375.53)" fill="#ffca28"/>
+      <path id="Trazado_100497" data-name="Trazado 100497" d="M261.647,466.236H459.493a34.217,34.217,0,0,1,34.177,34.179v92.578h7.755v-22.41l28.754,28.754-28.754,28.752V605.677H480.986V500.415a21.519,21.519,0,0,0-21.5-21.5H261.647a21.519,21.519,0,0,0-21.5,21.5V587.4L227.47,574.72v-74.3A34.217,34.217,0,0,1,261.647,466.236Z" transform="translate(129.629 328.771)" fill="#ffa726"/>
+      <path id="Trazado_100498" data-name="Trazado 100498" d="M102,466.235h74.3l12.684,12.684H102a21.522,21.522,0,0,0-21.5,21.5V698.258a21.522,21.522,0,0,0,21.5,21.5H299.841a21.52,21.52,0,0,0,21.5-21.5V592.994h20.441v-22.41l28.754,28.752L341.777,628.09V605.678H334.02v92.58a34.217,34.217,0,0,1-34.179,34.179H102A34.218,34.218,0,0,1,67.82,698.258V500.416A34.218,34.218,0,0,1,102,466.235Z" transform="translate(0 328.77)" fill="#ffca28"/>
+      <path id="Trazado_109795" data-name="Trazado 109795" d="M102,466.235h74.3l12.684,12.684H102a21.522,21.522,0,0,0-21.5,21.5V698.258a21.522,21.522,0,0,0,21.5,21.5H299.841a21.52,21.52,0,0,0,21.5-21.5V592.994H334.02V698.258a34.217,34.217,0,0,1-34.179,34.179H102A34.218,34.218,0,0,1,67.82,698.258V500.416A34.218,34.218,0,0,1,102,466.235Z" transform="translate(0 684.261)" fill="#ffca28"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5155)">
+      <rect id="Rectángulo_5155-2" data-name="Rectángulo 5155" width="210" height="210" rx="20" transform="translate(36.3 27)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5159)">
+      <rect id="Rectángulo_5159-2" data-name="Rectángulo 5159" width="210" height="210" rx="20" transform="translate(36.3 382)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5166)">
+      <rect id="Rectángulo_5166-2" data-name="Rectángulo 5166" width="210" height="210" rx="20" transform="translate(36.3 740)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5156)">
+      <rect id="Rectángulo_5156-2" data-name="Rectángulo 5156" width="210" height="210" rx="20" transform="translate(324.3 27)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5160)">
+      <rect id="Rectángulo_5160-2" data-name="Rectángulo 5160" width="210" height="210" rx="20" transform="translate(324.3 382)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5165)">
+      <rect id="Rectángulo_5165-2" data-name="Rectángulo 5165" width="210" height="210" rx="20" transform="translate(324.3 740)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5157)">
+      <rect id="Rectángulo_5157-2" data-name="Rectángulo 5157" width="210" height="210" rx="20" transform="translate(612.3 27)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5161)">
+      <rect id="Rectángulo_5161-2" data-name="Rectángulo 5161" width="210" height="210" rx="20" transform="translate(612.3 382)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5164)">
+      <rect id="Rectángulo_5164-2" data-name="Rectángulo 5164" width="210" height="210" rx="20" transform="translate(612.3 740)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5158)">
+      <rect id="Rectángulo_5158-2" data-name="Rectángulo 5158" width="210" height="210" rx="20" transform="translate(901.3 27)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5162)">
+      <rect id="Rectángulo_5162-2" data-name="Rectángulo 5162" width="210" height="210" rx="20" transform="translate(901.3 382)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5163)">
+      <rect id="Rectángulo_5163-2" data-name="Rectángulo 5163" width="210" height="210" rx="20" transform="translate(901.3 740)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.7, 2476)" filter="url(#Rectángulo_5167)">
+      <rect id="Rectángulo_5167-2" data-name="Rectángulo 5167" width="210" height="210" rx="20" transform="translate(38.3 1095)" fill="#4dd0e1" opacity="0.5"/>
+    </g>
+    <text id="Objeto_y_campo_de_aplicación" data-name="Objeto y
+campo de
+aplicación" transform="translate(311 2587)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Objeto y</tspan><tspan x="0" y="30">campo de</tspan><tspan x="0" y="60">aplicación</tspan></text>
+    <text id="Abreviaturas" transform="translate(297 2972)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Abreviaturas</tspan></text>
+    <text id="Amenazas_contra_la_seguridad_en_el_ciberespacio" data-name="Amenazas
+contra la
+seguridad en
+el ciberespacio" transform="translate(284 3285)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Amenazas</tspan><tspan x="0" y="30">contra la</tspan><tspan x="0" y="60">seguridad en</tspan><tspan x="0" y="90">el ciberespacio</tspan></text>
+    <text id="Aplicabilidad" transform="translate(584 2617)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Aplicabilidad</tspan></text>
+    <text id="Generalidades" transform="translate(576 2972)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Generalidades</tspan></text>
+    <text id="Roles_de_las_partes_interesadas_en_la_ciberprotección" data-name="Roles de las
+partes
+interesadas en la
+ciberprotección" transform="translate(561 3285)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Roles de las</tspan><tspan x="0" y="30">partes</tspan><tspan x="0" y="60">interesadas en la</tspan><tspan x="0" y="90">ciberprotección</tspan></text>
+    <text id="Referencias_Normativas" data-name="Referencias
+Normativas" transform="translate(878 2602)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Referencias</tspan><tspan x="0" y="30">Normativas</tspan></text>
+    <text id="Partes_interesadas_dentro_del_ciberespacio" data-name="Partes
+interesadas
+dentro del
+ciberespacio" transform="translate(873 2927)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Partes</tspan><tspan x="0" y="30">interesadas</tspan><tspan x="0" y="60">dentro del</tspan><tspan x="0" y="90">ciberespacio</tspan></text>
+    <text id="Directrices_para_las_partes_interesadas" data-name="Directrices
+para las partes
+interesadas" transform="translate(861 3300)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Directrices</tspan><tspan x="0" y="30">para las partes</tspan><tspan x="0" y="60">interesadas</tspan></text>
+    <text id="Términos_y_definición" data-name="Términos y
+definición" transform="translate(1170 2602)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Términos y</tspan><tspan x="0" y="30">definición</tspan></text>
+    <text id="Activos_en_el_ciberespacio" data-name="Activos en el
+ciberespacio" transform="translate(1160 2957)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Activos en el</tspan><tspan x="0" y="30">ciberespacio</tspan></text>
+    <text id="Controles_de_ciberseguridad" data-name="Controles de
+ciberseguridad" transform="translate(1148 3315)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Controles de</tspan><tspan x="0" y="30">ciberseguridad</tspan></text>
+    <text id="Marco_de_intercambio_y_coordinación_de_la_información" data-name="Marco de
+intercambio y
+coordinación de
+la información" transform="translate(281 3640)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Marco de</tspan><tspan x="0" y="30">intercambio y</tspan><tspan x="0" y="60">coordinación de</tspan><tspan x="0" y="90">la información</tspan></text>
+  </g>
+</svg>
